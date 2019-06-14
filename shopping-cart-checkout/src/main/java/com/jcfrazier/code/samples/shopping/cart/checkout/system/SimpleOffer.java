@@ -5,7 +5,7 @@
 package com.jcfrazier.code.samples.shopping.cart.checkout.system;
 
 /**
- * Simple offer
+ * Represents a simple offer.
  * 
  * @author jcfrazier
  *

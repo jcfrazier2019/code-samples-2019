@@ -8,7 +8,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Performs a simple offer check out
+ * Performs a simple offer check out.
  * 
  * @author jcfrazier
  *
