@@ -8,7 +8,7 @@ The application is run as stand-alone Java CLI application and requires the foll
 
 Follow the below instructions to download, build and run the Java CLI application:
 - Download and unzip the source repository for this guide, or clone it using Git
-- Change directory into ccode-samples-2019-master/shopping-cart-checkout
+- Change directory into code-samples-2019-master/shopping-cart-checkout
 - Build and run the Java CLI application using: mvn clean install && java -jar target/shopping-cart-checkout.jar
 
 After the above step (Build and run), the Java CLI application should be up and running and ready to receive user inputs via the command line with the below command prompt:
