@@ -20,7 +20,7 @@ import com.jcfrazier.code.samples.shopping.cart.checkout.system.SimpleOffer;
 import com.jcfrazier.code.samples.shopping.cart.checkout.system.SimpleOfferCommodityCheckout;
 
 /**
- * Main runner program for checking out.
+ * Main runner program for checking out
  * 
  * @author jcfrazier
  */
