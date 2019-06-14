@@ -1,4 +1,4 @@
-# checkout-system
+# shopping-cart-checkout
 A Java command line interface (CLI) application that accepts a list of commodities [Apple and Orange], calculates the total, and prints all the items in the shopping cart and teh total price.
 
 ## Build and run as the stand-alone Java CLI application
